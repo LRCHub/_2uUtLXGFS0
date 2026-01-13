@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "都会",
+  "base_artist": "大貫妙子",
+  "createdAt": "2026-01-13T23:27:02.093333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokai (都会)",
+      "artist": "Taeko Ohnuki",
+      "has_synced": true,
+      "path": "select/01_Tokai_(都会)_Taeko_Ohnuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "都会",
+      "artist": "Asako Toki",
+      "has_synced": false,
+      "path": "select/02_都会_Asako_Toki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "都会、ど真ん中で",
+      "artist": "Hayato Yoshida",
+      "has_synced": false,
+      "path": "select/03_都会、ど真ん中で_Hayato_Yoshida.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "都会",
+      "artist": "大貫 妙子",
+      "has_synced": false,
+      "path": "select/pl_01_都会_大貫_妙子.txt"
+    }
+  ]
+}
